@@ -1,8 +1,12 @@
 ### Hi 👋 my name is Maame De Veer
 <!--**maame-deveer/maame-deveer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-I am a recent Computer Science undergraduate and aspiring to be a software engineer. I am gradually exploring tech and trying to document my journey. I also love games and game dev and I am trying to join and submit simple projects for game jams.
+I am a recent Computer Science undergraduate and aspire to be a software engineer. I am gradually exploring tech and trying to document my journey. I also love games and game dev and I am trying to join and submit simple projects for game jams.
 
 ### 😄 Pronouns: She / Her
+
+### 🎧 I'm listening to:
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view.svg?uid=31qn262muj5qc3mujeaordovnkpu&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color_cover=true)](https://github.com/maame/spotify-github-profile)
 
 ### 🔭 Current Projects
 
