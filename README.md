@@ -1,6 +1,6 @@
 ### Hi 👋 my name is Maame De Veer
 <!--**maame-deveer/maame-deveer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-I am a recent Computer Science undergraduate and aspire to be a software engineer. I am gradually exploring tech and trying to document my journey. I also love games and game dev and I am trying to join and submit simple projects for game jams.
+As a junior engineer, I am on a journey to learn and develop innovative software solutions. My main programming language is C# because I want to explore the .net ecosystem. However, I am willing to learn new technologies and see where my programming journey takes me. With a Bachelor's degree in Computer Science, I bring an unquenchable thirst to learn and grow. My story is one of aspiring to make a difference, armed with passion and a fresh outlook. I am excited to learn more and greatly improve my skills.
 
 ### 😄 Pronouns: She / Her
 
