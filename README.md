@@ -10,7 +10,7 @@ As a junior engineer, I am on a journey to learn and develop innovative software
 
 ### 🔭 Current Projects
 
-I am currently working on an AR project for Google’s Immersive Geospatial Challenge hackathon and I hope I create and submit an interesting and immersive project.
+I am currently working learning rust and solving simple challenges in [the rust book](https://rust-book.cs.brown.edu/).
 
 ### 🌱 Currently Learning
 
